@@ -1,1 +1,10 @@
 GPCR_DB_project_updates_10-25-22.pptx
+notebook_backups/
+keras_sequential_notebooks/
+OLD/
+*.mdb
+*.txt
+*.sdf
+*.csv
+*.docx
+*.xlsx
